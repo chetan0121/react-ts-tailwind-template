@@ -8,36 +8,35 @@ This setup is optimized for **developer experience and performance**, featuring 
 
 ## Features
 
-* **React 19**: Uses latest React version with improved performance and modern features.
-* **TypeScript**: Strong typing for better maintainability and fewer runtime errors.
-* **Tailwind CSS v4**: Utility-first CSS for rapid and consistent UI development.
-* **Vite (Build System)**: Lightning-fast frontend tooling with instant dev server startup and optimized production builds.
-* **ESLint**: Enforces code quality with React + TypeScript best practices.
-* **Prettier**: Automatic code formatting for consistent style across the project.
-* **React Compiler**: Optimized React compilation using Babel plugin.
+- **React 19**: Uses latest React version with improved performance and modern features.
+- **TypeScript**: Strong typing for better maintainability and fewer runtime errors.
+- **Tailwind CSS v4**: Utility-first CSS for rapid and consistent UI development.
+- **Vite (Build System)**: Lightning-fast frontend tooling with instant dev server startup and optimized production builds.
+- **ESLint**: Enforces code quality with React + TypeScript best practices.
+- **Prettier**: Automatic code formatting for consistent style across the project.
+- **React Compiler**: Optimized React compilation using Babel plugin.
 
 ---
 
 ## Tech Stack
 
-* **Frontend Framework**: React 19
-* **Language**: TypeScript
-* **Styling**: Tailwind CSS v4
-* **Build Tool**: Vite (modern frontend build system)
-* **Linting**: ESLint v10 with React & TypeScript plugins
-* **Formatting**: Prettier
+- **Frontend Framework**: React 19
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS v4
+- **Build Tool**: Vite (modern frontend build system)
+- **Linting**: ESLint v10 with React & TypeScript plugins
+- **Formatting**: Prettier
 
 ---
 
 ## Prerequisites
 
-* Node.js (v20 or higher — recommended: LTS versions like 22 or 24)
-* Any package manager:
-
-  * npm
-  * yarn
-  * pnpm
-  * bun
+- Node.js (v20 or higher — recommended: LTS versions like 22 or 24)
+- Any package manager:
+  - npm
+  - yarn
+  - pnpm
+  - bun
 
 ---
 
@@ -66,7 +65,7 @@ bun install
 
 Pre-configured task for smooth workflow:
 
-* **Run Dev Server** → `Ctrl + Shift + B`
+- **Run Dev Server** → `Ctrl + Shift + B`
 
 Default command:
 
@@ -122,10 +121,10 @@ src/
 
 ## Why Vite?
 
-* Instant server startup ⚡
-* Fast HMR (no full reloads)
-* Optimized production builds
-* Native ES modules support
+- Instant server startup ⚡
+- Fast HMR (no full reloads)
+- Optimized production builds
+- Native ES modules support
 
 ---
 
