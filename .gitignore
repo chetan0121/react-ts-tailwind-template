@@ -1,0 +1,35 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+node_modules/
+dist/
+dist-ssr/
+build/
+*.local
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Editor directories and config files
+.DS_Store
+Thumbs.db
+*.swp
+*.tsbuildinfo
+
+# Temp
+temp/
+tmp/
+.temp/
+.tmp/
+
+# -- Tools --
+.turbo/
+.vercel
+.netlify
+coverage/

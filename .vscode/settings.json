@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.tabSize": 2,
+  "prettier.requireConfig": true,
+
+  "js/ts.suggest.completeFunctionCalls": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  }
+}
