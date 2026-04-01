@@ -13,12 +13,12 @@
     --color-text: #eaeaea;
     --color-bg: #1a1a1a;
     --color-primary: #2563eb;
-    --color-secondary: #64748b;
+    --color-secondary: #3a3a3a;
   }
 
   body {
-    min-width: 100vw;
-    min-height: 100vh;
+    min-height: 100%;
+    width: 100%;
     line-height: 1.5;
     text-rendering: optimizeLegibility;
     font-family: var(--font-primary);
@@ -32,10 +32,11 @@
   button {
     cursor: pointer;
     border: 0.1rem solid transparent;
-    background-color: #1a1a1a;
+    background-color: var(--color-secondary);
 
     &:hover {
-      border-color: var(--color-primary);
+      border-color: #64748b;
+      background-color: #1a1a1a;
     }
   }
 

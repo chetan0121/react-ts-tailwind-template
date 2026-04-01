@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   return (
-    <div id="App" className="flex justify-center items-center h-screen">
+    <div id="App" className="flex flex-col justify-center items-center h-screen">
       <h1 className="text-3xl font-bold text-blue-500">
         React + TypeScript + Tailwind Template
       </h1>
