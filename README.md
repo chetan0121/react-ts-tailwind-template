@@ -14,7 +14,6 @@ This setup is optimized for **developer experience and performance**, featuring 
 - **Vite (Build System)**: Lightning-fast frontend tooling with instant dev server startup and optimized production builds.
 - **ESLint**: Enforces code quality with React + TypeScript best practices.
 - **Prettier**: Automatic code formatting for consistent style across the project.
-- **React Compiler**: Optimized React compilation using Babel plugin.
 
 ---
 
@@ -112,7 +111,6 @@ src/
 ├── pages/           # Page-level components
 ├── routes/          # Routing setup/config
 ├── App.tsx          # Root component
-├── App.css          # Component-specific styles and animations
 ├── index.css        # Global styles (Tailwind)
 └── main.tsx         # Entry point
 ```
